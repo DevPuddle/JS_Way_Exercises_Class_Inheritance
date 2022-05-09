@@ -1,0 +1,1 @@
+# JS_Way_Exercises_Class_Inheritance
